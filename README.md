@@ -5,7 +5,7 @@ CloudLink is a Cloud Computing project built with **Cloudflare Workers** and **W
 ## Team
 
 - **Harsh Pandey** — 2410030994
-- **Saksham Singh** — 2410030795
+
 - B.Tech CSE Core, Year 3, Semester 5
 - Course: Cloud Computing | Faculty: Mr. Rohit Kumar
 
