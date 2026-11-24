@@ -1,0 +1,7 @@
+name = "cloudlink-shortener"
+main = "src/worker.js"
+compatibility_date = "2026-11-24"
+
+[[kv_namespaces]]
+binding = "LINKS"
+id = "200b6399a20940d98f39419fb397b9ff"
